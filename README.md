@@ -3,7 +3,7 @@
 * Dashboard created in Power Bi Desktop to analyse sales revenues, products sales ranking, revenues per store and location, clients rank. 
 * The data is  
 
-**In this dashboard I built you will be able to:
+**In this dashboard I built you will be able to:**
 
 * Analyse the total revenue per month in a area chart where I included a tooltip to show the total profit and cost in percentage in a columm chart, total revenue and the product most saled. 
 * Analyse the most sold products in a stacked bar chart to show thr ranking.
