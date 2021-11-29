@@ -1,7 +1,6 @@
 # Sales Dashboard Overview: Power Bi Visualization
 
 * Dashboard created in Power Bi Desktop to analyse sales revenues, products sales ranking, revenues per store and location, clients rank. 
-* The data is  
 
 **In this dashboard I built you will be able to:**
 
